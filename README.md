@@ -87,9 +87,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-![Snake Animation](https://raw.githubusercontent.com/anirudhprmar/anirudhprmar/output/snake.svg)
-
-###
