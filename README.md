@@ -13,11 +13,19 @@
 
 ###
 
+<h2 align="left">About me</h2>
+
+###
+
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWs1a21sMHIwOHJuYTlxbHNqb3NhNnY0OXVpNmx0bXAwb2lwdWZ1bSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/27p23rPZwLRJbZ951t/giphy.gif"  />
 
 ###
 
 <p align="left">I think of an Idea. I then stop thinking. I build. launch. iterate.<br>solving problem with code.<br>I build.<br>I build until it works.<br>I build until my fingers fall off.<br>I then build again.</p>
+
+###
+
+<h2 align="left">Languages and Tools</h2>
 
 ###
 
@@ -69,6 +77,19 @@
 
 ###
 
+<h2 align="left">Things I'm excited about</h2>
+
+###
+
+- 💻 Building Full-stack Web apps
+- 🦾 Open Soucre
+  
+###
+
+<h2 align="left">Github Stats</h2>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -84,6 +105,12 @@
     </tr>
   </table>
   
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anirudhprmar.anirudhprmar&"  />
 </div>
 
 ###
