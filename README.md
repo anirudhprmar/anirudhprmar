@@ -25,6 +25,15 @@
 
 ###
 
+<h2 align="left">Things that keep me excited</h2>
+
+###
+
+- 💻 Building Full-stack Web Apps
+- 🦾 Open Soucre
+  
+###
+
 <h2 align="left">Languages and Tools</h2>
 
 ###
@@ -75,15 +84,6 @@
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
 </div>
 
-###
-
-<h2 align="left">Things I'm excited about</h2>
-
-###
-
-- 💻 Building Full-stack Web apps
-- 🦾 Open Soucre
-  
 ###
 
 <h2 align="left">Github Stats</h2>
