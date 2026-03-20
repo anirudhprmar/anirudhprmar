@@ -1,1 +1,2 @@
-I build. launch. iterate.
+I'm just a guy who likes to build things.
+
