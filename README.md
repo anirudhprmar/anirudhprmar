@@ -1,2 +1,2 @@
-I'm just a guy who likes to build things.
+I like to build things.
 
